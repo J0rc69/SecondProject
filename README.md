@@ -1,6 +1,9 @@
 # Applied NLP Project — Comparing War and Peace & Anna Karenina
 Group members: Joranas Cigas, Daved Tawdros, Jakhongir Erkinov, Chriswen Baiju
 
+This project explores linguistic patterns in two novels by Leo Tolstoy using Natural Language Processing (NLP).
+
+
 This repository contains the materials for **Applied NLP Project — Comparing War and Peace & Anna Karenina **.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
