@@ -1,7 +1,10 @@
-# Project X 
-Group members: Y, Z
+# Applied NLP Project — Comparing War and Peace & Anna Karenina
+Group members: Joranas Cigas, Daved Tawdros, Jakhongir Erkinov, Chriswen Baiju
 
-This repository contains the materials for **Project X**.  
+This project explores linguistic patterns in two novels by Leo Tolstoy using Natural Language Processing (NLP).
+
+
+This repository contains the materials for **Applied NLP Project — Comparing War and Peace & Anna Karenina **.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
 - Data: when you access correct data, place it in [`data/`](./data/) folder
@@ -11,7 +14,17 @@ This repository contains the materials for **Project X**.
 - Read more about this project on Medium: <Medium_Article_link>
 ---
 
-## 📑 Project Outline
+## 📚 Project Overview
+
+We analyze Four major linguistic dimensions:
+
+ -Bigrams & Trigrams (Frequency & Comparison)
+
+ -Phrase Diversity (n-gram TTR)
+
+ -PMI (Pointwise Mutual Information)Character Network Analysis
+
+ -Character Network Analysis
 
 
 ---
