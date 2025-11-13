@@ -109,6 +109,57 @@ Yes — the **patterns are stable** across both novels:
 - The **TTR drops** from bigrams to trigrams, since longer phrases are more repetitive.
 - *Anna Karenina* consistently shows a slightly **higher TTR**, reflecting more expressive and emotional variation compared to the more epic and repetitive style of *War and Peace*.
 
+
+Task-4 - Characters Network
+
+🕊 War and Peace – Top 10 characters
+
+Pierre Bezukhov – awkward, philosophical nobleman, one of the main protagonists.
+
+Anna Pavlovna – high-society hostess, appears in opening scenes (Anna Pavlovna Scherer).
+
+Nicholas – Nikolai Rostov, member of the Rostov family, young cavalry officer.
+
+Anna Mikháylovna – Anna Mikhaylovna Drubetskaya, impoverished noblewoman, very social.
+
+Lise – Lise (Elizabeth) Bolkonskaya, Prince Andrei’s wife.
+
+Prince Andrew – Andrei Bolkonsky, another main protagonist (this is the same Andrei you normalized).
+
+Vasíli – Prince Vasili Kuragin, scheming nobleman, father of Anatole & Hélène.
+
+Dólokhov – Fedya Dolokhov, officer, gambler, duelist.
+
+Sónya – Sonya, orphan cousin living with the Rostovs, in love with Nikolai.
+
+Julie – Julie Karagina, wealthy heiress and friend of Marya
+
+
+
+Anna Karenina – Top characters
+
+Konstantin Levin – main protagonist alongside Anna; landowner, very introspective.
+
+Ekaterina Shcherbatskaya (Kitty) – young noblewoman, Levin’s love interest.
+
+Oblonsky – Stiva Oblonsky, Anna’s brother; cheerful, irresponsible.
+
+Stepan Arkadyevitch – this is the same person as Oblonsky (full name: Stepan Arkadyevitch Oblonsky).
+
+Alexei Vronsky – cavalry officer, Anna’s lover.
+
+Anna Karenina – title character, married woman who starts an affair with Vronsky.
+
+Here you can see the “repeated character” issue clearly:
+
+“Oblonsky” and “Stepan Arkadyevitch” are actually the same guy, but our code treats them as two separate nodes because we didn’t fully normalize all his name variants.
+
+Same can happen for:
+
+“Prince Andrew” vs “Andrei Bolkonsky”
+
+
+
 ### 🧩 Summary Insight
 Tolstoy’s language is consistently rich in both novels.
 However, the **context and focus of each story** — epic versus intimate — shape their phrase diversity.
