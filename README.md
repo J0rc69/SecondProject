@@ -110,9 +110,9 @@ Yes — the **patterns are stable** across both novels:
 - *Anna Karenina* consistently shows a slightly **higher TTR**, reflecting more expressive and emotional variation compared to the more epic and repetitive style of *War and Peace*.
 
 
-## Task-4 - Characters Network
+# Task-4 - Characters Network
 
-# 🕊 War and Peace – Top 10 characters
+## 🕊 War and Peace – Top 10 characters
 
 Pierre Bezukhov – awkward, philosophical nobleman, one of the main protagonists.
 
@@ -136,7 +136,7 @@ Julie – Julie Karagina, wealthy heiress and friend of Marya
 
 
 
-# Anna Karenina – Top characters
+## Anna Karenina – Top characters
 
 Konstantin Levin – main protagonist alongside Anna; landowner, very introspective.
 
