@@ -209,3 +209,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+results/War_and_Peace_network_auto.png
+results/War_and_Peace_auto_node_metrics.csv
+results/PMI_table.csv
+results/PMI_figure.png
+results/Anna_Karenina_network_auto.png
+results/Anna_Karenina_auto_node_metrics.csv
+results/War_and_Peace_network_auto.png
+results/War_and_Peace_auto_node_metrics.csv
+results/Anna_Karenina_network_auto.png
+results/Anna_Karenina_auto_node_metrics.csv
