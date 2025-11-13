@@ -1,0 +1,502 @@
+character,degree,weighted_degree,betweenness,mentions
+Levin,130,493,0.1657312009699251,1073
+Anna Arkadyevna,87,471,0.08312791173611093,628
+Kitty Shtcherbatskaya,86,372,0.07765049413313399,489
+Vronsky,81,342,0.1022297853358707,363
+Alexey Alexandrovitch,69,273,0.07965664486358914,417
+Betsy Tverskaya,26,100,0.014705417033468166,102
+Stepan Arkadyevitch,34,95,0.028153780597516238,171
+Darya Alexandrovna,29,86,0.02053321037820286,99
+Varenka,20,70,0.018514921528831392,110
+Yashvin,22,56,0.012091548648958065,57
+Veslovsky,17,50,0.00410845646349518,46
+Golenishtchev,10,50,0.011656859622085736,46
+Alexey Alexandrovitch’s,19,46,0.006169395358300904,29
+Seryozha,16,46,0.009794062464983454,64
+Konstantin Levin,22,45,0.01694864691293109,60
+Vassenka Veslovsky,15,41,0.008029334077105666,35
+Nikolay Levin,12,35,0.004381538896578048,47
+Lidia Ivanovna,15,31,0.0065591322507894834,37
+Petritsky,15,30,0.016590790257617633,26
+Shtcherbatsky,14,27,0.006832901177489392,16
+Laska,7,27,0.003655353148465068,32
+Liza Merkalova,8,26,3.677711245676991e-05,16
+Karenins,8,24,0.004026259011005985,12
+Princess Varvara,10,22,0.0015082379654284526,14
+Konstantin Dmitrievitch,14,21,0.013765661785193234,28
+Countess Lidia Ivanovna,11,21,0.006959883567256364,21
+Varvara Andreevna,14,20,0.013617276228688245,13
+Countess Nordston,5,19,0.0008812540300805341,21
+Landau,10,18,0.008273486655851384,14
+Petersburg,12,18,0.00362063904887396,13
+Stremov,8,17,0.0005253751636477375,9
+Kostya,9,17,0.0034383052323875133,22
+Tverskaya,7,17,0.00020128055108604447,11
+Grisha,11,16,0.012108913886266726,18
+Darya Alexandrovna’s,7,16,0.0015815205959683134,11
+Masha,13,15,0.016884659776975872,14
+Stiva,10,15,0.001563997263955531,11
+Sappho Shtoltz,8,15,0.0018739371514349744,8
+Mahotin,8,13,0.013598561791194267,10
+Sergey Ivanovitch,10,13,0.006067306267264886,19
+Agafea Mihalovna,8,13,0.0022571752672348997,15
+Tushkevitch,9,12,0.007672991440866601,6
+Tit,3,12,0.0001659864192750402,17
+Lvov,4,12,4.376485118736887e-05,15
+Yegor,6,11,0.0007540892033931304,11
+Krak,6,11,0.0008576825682264269,8
+bush,7,11,0.00580464817724768,9
+Varya,7,10,0.000634598363561765,9
+Count Vronsky,8,10,0.0035417250376584487,6
+Ivan Petrovitch,6,10,0.0015288643609922443,11
+Lizaveta Petrovna,3,10,0.0,20
+Sviazhsky,4,9,0.001197654289486694,13
+Tanya,6,9,0.0025198847024139708,7
+Je,6,8,0.0012559518447231993,3
+Korney,5,8,0.0010136451369427233,10
+Cord,4,8,0.0006933549638960459,6
+Bezzubov,6,8,0.0014000741303172252,3
+Pyotr Dmitrievitch,7,8,0.019192697581463893,13
+Pestsov,5,8,0.002585970979965447,11
+Tsar,8,8,0.016264877786557684,10
+Nevyedovsky,5,7,0.0011974034093272575,5
+Princess Myakaya,5,7,0.010113630842044748,10
+Rebecca,7,7,0.011431623253654778,2
+Thou,6,7,0.009741344130023965,3
+Isaac,7,7,0.0022992893584493045,2
+Mademoiselle Varenka,3,7,0.0,7
+Prince Shtcherbatsky,6,7,0.006947086008660616,4
+Mademoiselle Linon,5,7,0.0003962749574856141,5
+Philip,5,7,0.0032386028710990537,8
+Young Shtcherbatsky,6,7,0.004260934498295768,2
+Ryabinin,6,7,0.005580380814434686,14
+Varya Tchirkova,6,6,0.0034639309287547936,1
+Krivin,4,6,0.0005331885994210644,2
+Turovtsin,5,6,0.002156984098066262,3
+Mill,6,6,0.01023563758337545,2
+Anna Pavlovna,2,6,0.0,10
+Karenin,6,6,0.004696305626617516,2
+Tchirikov,4,6,5.159505379946261e-05,7
+Vassily Lukitch,4,6,0.008080160320641282,9
+Snetkov,2,6,0.0,9
+Patti,5,6,0.002273780685703483,5
+Lily,6,6,0.007436067179723067,3
+Venovsky,6,6,0.0034639309287547936,1
+Menelaus,5,5,5.4376356800335136e-05,1
+Anna Karenina,5,5,0.00582633621680555,2
+Sigonin,5,5,5.4376356800335136e-05,1
+Landau—Bezzubov,5,5,0.0009253437693330527,1
+Vrede,3,5,0.0003367647034475931,3
+Bryansky,3,5,3.8460818786175384e-05,6
+Sviazhskys,3,5,0.0,3
+Count Paskudin,5,5,5.4376356800335136e-05,1
+Frou-Frou,4,5,0.0008232740613502137,2
+Alexandrovna,4,5,0.0002811147992510719,3
+Shakespeare,5,5,0.007298978287048928,2
+Alexey Vronsky,4,5,0.0015536537569520042,5
+Semyonov,5,5,5.4376356800335136e-05,1
+Marie Sanina,5,5,0.0009253437693330527,2
+Kritsky,3,5,0.0,9
+Mitya,3,5,0.0,10
+Shtcherbatskys,5,5,0.003760202193136842,3
+Joseph,4,4,0.0,1
+Mlle,2,4,0.0,3
+tailor,4,4,0.0009717648332168156,1
+Berkoshov,4,4,0.0009717648332168156,1
+Zipporah,4,4,0.0,1
+Dolly,4,4,0.0008529352293135388,2
+Adam,4,4,0.0,1
+Konstantin Dmitrievitch Levin,4,4,0.005402805611222445,2
+Vaska,3,4,0.0013833838159422163,2
+Linon,2,4,0.0,3
+Raphael,4,4,0.000407209261823042,1
+Pokrovskoe,3,4,0.00041599635698849353,4
+Oblonsky,3,4,0.0009430831810091309,5
+Lady Somebody,4,4,0.0,1
+Fürstin,4,4,0.0,1
+M. Canut,4,4,0.0,1
+Gospel,4,4,0.0028560395768316006,3
+Brandy,4,4,0.0028558492441815592,2
+Kamerovsky,3,4,0.0,4
+Englishman,3,4,0.00012991909745416758,8
+Beethoven,4,4,0.000407209261823042,1
+Peter the,4,4,0.0013569959800057909,1
+Kolpensky,3,4,0.0001309941005331787,2
+Levy,4,4,0.002051763136055548,1
+Kvitsky,4,4,0.000132635638818593,1
+Dunyasha,3,4,0.0008372024245418088,2
+Pryatchnikov,4,4,0.000132635638818593,2
+Vasya Pryatchnikov,4,4,0.000132635638818593,1
+Mais,4,4,0.0069392249979787985,4
+Countess Bezzubova,3,3,0.0,2
+eating heartily,3,3,0.00019488672433483855,1
+Remembering Golenishtchev,3,3,0.002630903850063589,1
+Moscow Levin,2,3,0.0,2
+Capella,3,3,0.0004150139396331472,1
+Hoole,3,3,5.4909769857865e-05,2
+Beist,3,3,0.0,1
+Petersburg Vronsky,3,3,0.002630903850063589,1
+Lieschen,3,3,0.00019488672433483855,1
+Marya Borissovna,2,3,0.0,4
+Yury Meledinsky,3,3,0.0,1
+Aline,3,3,0.00019488672433483855,1
+Klopots,3,3,0.0002545359297969783,1
+Der Preis,3,3,0.0,1
+God,3,3,0.0037252554440859887,2
+Myaskin,3,3,0.0004150139396331472,1
+Komissarov,3,3,0.0,1
+Alexander Dmitrievitch Shtcherbatsky,3,3,0.0007283909160497949,1
+Matrona Philimonovna’s,3,3,0.0,1
+Sergey Koznishev,3,3,0.0,1
+Nikolay Ivanitch,3,3,0.000437473496887571,3
+Shuraev,3,3,0.00018166046823361466,1
+desk—“it,3,3,0.0,1
+Dochots,3,3,0.0002545359297969783,1
+Grammar,3,3,0.0,1
+Misha,3,3,0.0,1
+Vashtchenkov,3,3,0.0028913656535387165,1
+compliziert,3,3,0.0,1
+Darya Alexandrovna Oblonskaya,3,3,0.0033978160024629913,1
+Buslaev,3,3,0.0,1
+macht zu viel Klopot,3,3,0.0,1
+Fyodor Ryezunov,3,3,0.00018166046823361466,1
+Offenbach,3,3,0.0,1
+Demin,3,3,0.0,1
+Prince Serpuhovskoy,3,3,0.0,1
+Miss Hoole,3,3,0.0046019323910032614,3
+Erlaucht,3,3,0.0,1
+Prince Kaluzhsky,3,3,0.0008938612541409971,1
+revolutionary hydra,3,3,0.0,1
+Koznishev,3,3,0.0,1
+Harkov,3,3,0.0,1
+Jules Landau,3,3,0.0,1
+Kapitonitch,3,3,0.0006198171825526967,7
+Liza Neptunova,3,3,0.0,1
+the Alexander Nevsky,2,3,0.0,3
+tulle,3,3,0.001818134559834215,1
+tipsy,3,3,0.0014193957444535344,1
+Mariette,3,3,0.0030072394410119666,3
+n’t Biryuzovsky,3,3,0.0,1
+Thule,3,3,0.0009717648332168156,1
+Kitty Levin,3,3,0.003953786199470636,1
+Annie,2,3,0.0,5
+Kedrov,3,3,0.0009717648332168156,1
+Venden,3,3,0.0009717648332168156,2
+halfpenny Levin,3,3,0.007283646318286045,1
+Vladimir,3,3,0.004060120240480962,2
+Sam Nikandrov,3,3,0.0,1
+rang,3,3,0.0005912439343645549,2
+Shilton,3,3,0.00213687672132785,1
+Pava,2,3,3.810355754243525e-05,3
+Buzulukov,3,3,0.005402805611222445,2
+Vassiliev,3,3,0.0,1
+Laura,2,2,0.0,1
+Prince Tchetchensky,2,2,0.0016366465572499403,3
+Nikolay Shtcherbatsky,2,2,0.0014471562829750596,2
+Nikolay’s,1,2,0.0,3
+Gazetoy Place,2,2,0.000617683584235075,1
+Alexey Kirillovitch Vronsky,2,2,0.0,1
+Count Anitchkin,2,2,0.002951632216439917,2
+Ivan Parmenov,2,2,0.00018166046823361466,1
+Dmitri,2,2,0.0014471562829750596,1
+Au,2,2,0.00033563502342387724,1
+Alexey Alexandrovitch Karenin,2,2,0.0,1
+Annushka,2,2,0.0001296583157411773,1
+Madame Vrede,2,2,0.0008812540300805341,1
+jeune homme,2,2,0.00019488672433483855,1
+Mileev,2,2,0.0,1
+jamais réussi,2,2,0.00038515152218365116,1
+Katerina Pavlovna,2,2,6.418770765395051e-05,1
+Burgundy,2,2,2.11525759268303e-05,1
+Alexey Kirillovitch,2,2,0.00015823986519612526,3
+Kolok,2,2,0.0,1
+Ryezunov,1,2,0.0,2
+jeune et,2,2,0.0,1
+Pravdin,1,2,0.0,2
+Philip Ivanitch Nikitin,2,2,0.0,1
+Hence Vronsky,2,2,0.000884131388540206,1
+Horrid,2,2,0.0014471562829750596,1
+jolie femme,2,2,0.0,1
+Seleznevsky,2,2,0.0014471562829750596,1
+Mihail Stanislavitch,2,2,0.0,1
+Kartasov,2,2,0.00018680312290477388,1
+Prince Yashvin,2,2,0.0,2
+Friedrich,2,2,0.0007664486441145018,1
+Homiakov,2,2,0.0006398464249242543,1
+Tyndall,2,2,0.0006692339607207713,1
+Semyon,2,2,0.0023494961062095333,3
+Consequently Vronsky,2,2,0.0014471562829750596,1
+Kant,2,2,0.0,1
+Hegel,2,2,0.0,1
+Vronsky an,2,2,0.0,1
+Mihail Vassilievitch,2,2,0.00034692546894951696,7
+Hypocrisy,2,2,0.0,1
+Waiter,2,2,0.00070297656224236,2
+Diana,1,2,0.0,2
+M. Vorkuev,2,2,0.0027097051853051013,1
+Figurez,2,2,0.0,1
+Michelli,2,2,8.016032064128256e-06,2
+King Lear,1,2,0.0,3
+Gladiator,1,2,0.0,3
+Don,2,2,9.248974138753696e-05,1
+Katya,2,2,0.0002602700565547002,2
+Aline Stahl,2,2,0.00019488672433483855,1
+shaven chin,2,2,0.0,1
+Shirkov,2,2,0.0013741243262860828,1
+Sergey Alexyevitch,2,2,0.0002029578709762607,1
+Nikolinka,2,2,0.0001923631389763655,1
+Plato,2,2,0.0,2
+Elliot,2,2,0.0,1
+Nikolay Dmitrievitch,2,2,0.0027094188376753504,6
+Krivtsov,2,2,5.3076419173318836e-05,1
+Enoch,1,2,0.0,2
+Pyotr Oblonsky,1,2,0.0,3
+Yermil,2,2,0.0009843611817559703,1
+train que cela va,2,2,0.0,1
+Stiva Oblonsky,2,2,0.0,1
+Beside Anna,2,2,0.0,1
+Altogether Dolly,2,2,0.0013741243262860828,1
+chubby,2,2,0.0,1
+Metrov,1,2,0.0,3
+Mihail Semyonovitch,1,1,0.0,1
+Charles,1,1,0.0,1
+Gvozdyov,1,1,0.0,2
+Natalia Alexandrovna,1,1,0.0,1
+tomber jusqu’au fond de mes bottes,1,1,0.0,1
+Anna Arkadyevna’s,1,1,0.0,1
+Prince Shtcherbatsky’s,1,1,0.0,1
+Yeliseev,1,1,0.0,1
+petit brin de,1,1,0.0,1
+bonheur et de l’existence d’Anne et de,1,1,0.0,1
+Marya Semyonovna,1,1,0.0,1
+Levin to,1,1,0.0,1
+Katka Maslov,1,1,0.0,1
+Apostle Paul,1,1,0.0,1
+Sventitsky,1,1,0.0,2
+Alexander Nevsky,1,1,0.0,2
+Veslovsky et Tushkevitch,1,1,0.0,1
+Putyatov,1,1,0.0,1
+Bols,1,1,0.0,1
+Andrey,1,1,0.0,2
+Mihail Vassilievitch Sludin,1,1,0.0,1
+Princess Astafieva,1,1,0.0,1
+Capuan,1,1,0.0,1
+Karl Fedoritch,1,1,0.0,1
+Altogether Mihailov,1,1,0.0,1
+flaxen head,1,1,0.0,1
+Rachel,1,1,0.0,1
+Ivanov,1,1,0.0,3
+Tintoretto,1,1,0.0,1
+das ewig,1,1,0.0,1
+Kruzin,1,1,0.0,1
+de Varenka,1,1,0.0,1
+Vronskys,1,1,0.0,1
+serfs,1,1,0.0,1
+Katavasov,1,1,0.0,1
+jubilee,1,1,0.0,1
+Ment,1,1,0.0,1
+Natalia Golitzina,1,1,0.0,1
+Serpohovskoy,1,1,0.0,1
+Nevsky,1,1,0.0,1
+countess?—a,1,1,0.0,1
+Marya Nikolaevna,1,1,0.0,1
+Nikolay Dmitrievitch’s,1,1,0.0,1
+Vassily Fedorovitch,1,1,0.0,2
+Lady Mary,1,1,0.0,1
+Samovar,1,1,0.0,1
+Kondraty,1,1,0.0,1
+Hannah,1,1,0.0,2
+Pierre,1,1,0.0,1
+Pyotr Oblonsky’s,1,1,0.0,1
+Que la personne qui est,1,1,0.0,1
+qui demande,1,1,0.0,1
+Alexander Vronsky,1,1,0.0,4
+Anna Arkadyevna Karenina,1,1,0.0,1
+Prince Kedrov,1,1,0.0,1
+Louis Quinze,1,1,0.0,1
+Myakaya,1,1,0.0,3
+Count Bol,1,1,0.0,1
+Vlassieva,1,1,0.0,2
+Saul,1,1,0.0,1
+Les amis de nos amis,1,1,0.0,1
+Mishka,1,1,0.0,1
+Ivan Ivanovitch,1,1,0.0,1
+Yegorushka Korsunsky,1,1,0.0,1
+Nikitins,1,1,0.0,1
+baker,1,1,0.0,2
+Alabin,1,1,0.0,1
+Khiva,1,1,0.0,1
+Kalinin,1,1,0.0,1
+Alexander Nikolaevitch,1,1,0.0,1
+Mihalitch,1,1,0.0,2
+Grinevitch,1,1,0.0,2
+Keiss,1,1,0.0,1
+Fokanitch,1,1,0.0,2
+Uncle Fokanitch,1,1,0.0,1
+Begier,1,1,0.0,1
+Bobrishtchevs,1,1,0.0,1
+Aber doch,1,1,0.0,1
+Bill,1,1,0.0,1
+Babylon,1,1,0.0,1
+Stepan Arkadyevitch’s,1,1,0.0,1
+qui mal y,1,1,0.0,1
+Klaras,1,1,0.0,1
+filez,1,1,0.0,1
+mon cher,1,1,0.0,1
+Helsingfors,1,1,0.0,1
+Levin two,1,1,0.0,1
+John,1,1,0.0,4
+Katerina Alexandrovna,1,1,0.0,5
+Peter,1,1,0.0,1
+Pomorsky,1,1,0.0,1
+Krasnoe Selo,1,1,0.0,1
+Mitin,1,1,0.0,1
+Serpuhovskoy,1,1,0.0,8
+Liza Mertsalova,1,1,0.0,1
+Darmstadt,1,1,0.0,1
+tidy yard,1,1,0.0,1
+Mihail Petrovitch,1,1,0.0,3
+Catherine,1,1,0.0,1
+Mulhausen,1,1,0.0,1
+Aliosha,1,1,0.0,1
+Lassalle,1,1,0.0,1
+Spencer,1,1,0.0,3
+Jones,1,1,0.0,1
+Kauffmann,1,1,0.0,1
+Kostya Levin,1,1,0.0,1
+Vronsky’s Atlas,1,1,0.0,1
+Instinct,1,1,0.0,1
+Marie-Louise,1,1,0.0,1
+Kislovka,1,1,0.0,1
+Brindle,1,1,0.0,1
+Learning French,1,1,0.0,1
+this M. Levin,1,1,0.0,1
+Alexander Shtcherbatsky,1,1,0.0,1
+Fürst Shtcherbatsky,1,1,0.0,1
+Anna Pavlovna’s,1,1,0.0,3
+Prince Kuzovlev,1,1,0.0,1
+Mother,1,1,0.0,1
+Bonne,1,1,0.0,1
+Alexey Vronsky’s,1,1,0.0,1
+Sludin,1,1,0.0,5
+satin,1,1,0.0,2
+Mihail Alexeyevitch,1,1,0.0,1
+Andreevna,1,1,0.0,1
+Volkov,1,1,0.0,1
+Marya Philimonovna,1,1,0.0,1
+Gemahlin,1,1,0.0,1
+Mamma,0,0,0.0,1
+Lvova,0,0,0.0,1
+Yevgeney Ivanovitch Apuhtin,0,0,0.0,1
+Count Bezzubov,0,0,0.0,1
+je fais,0,0,0.0,1
+Pyotr Petrovitch Bol,0,0,0.0,1
+Mihail Stepanovitch Snetkov,0,0,0.0,1
+Mary,0,0,0.0,1
+Nikolay Ivanovitch,0,0,0.0,1
+Daudet,0,0,0.0,1
+Stepan Vassilievitch,0,0,0.0,1
+Malvinsky,0,0,0.0,1
+Vorknev,0,0,0.0,1
+Jove,0,0,0.0,1
+Kashinsky,0,0,0.0,1
+Drabanti,0,0,0.0,1
+Katerina Andreevna,0,0,0.0,1
+Gambetta,0,0,0.0,1
+Sokolov,0,0,0.0,1
+Yegorov,0,0,0.0,1
+Prince Pyotr Oblonsky,0,0,0.0,1
+meek,0,0,0.0,1
+Mordvinsky,0,0,0.0,1
+Jivio,0,0,0.0,2
+Constance Garnett,0,0,0.0,1
+un petit peu toqué,0,0,0.0,1
+Soden,0,0,0.0,2
+merry,0,0,0.0,1
+Claire,0,0,0.0,1
+Kitty Shtcherbatskaya’s,0,0,0.0,1
+calmer,0,0,0.0,2
+Kolpik,0,0,0.0,2
+Tchefirovka,0,0,0.0,1
+Mihail Ignatitch,0,0,0.0,1
+Numerova,0,0,0.0,1
+Sestrin,0,0,0.0,1
+jamais rien outrer,0,0,0.0,1
+Anita,0,0,0.0,1
+Konstantin Dmitrich,0,0,0.0,1
+Mashkin Upland,0,0,0.0,1
+Yermilin,0,0,0.0,1
+I. First,0,0,0.0,1
+gore,0,0,0.0,1
+Tanitchka,0,0,0.0,1
+"me,—you",0,0,0.0,1
+Often Levin,0,0,0.0,1
+Dolinka,0,0,0.0,1
+Duc de Lille,0,0,0.0,1
+Ding,0,0,0.0,1
+Noah,0,0,0.0,1
+Matrona Philimonovna,0,0,0.0,5
+Nikitin,0,0,0.0,2
+Fomin,0,0,0.0,1
+Zahar Nikititch,0,0,0.0,1
+Knaust,0,0,0.0,1
+Prince Golistin,0,0,0.0,1
+Flensburg,0,0,0.0,2
+macédoine de,0,0,0.0,1
+Cachet,0,0,0.0,1
+Parmesan,0,0,0.0,1
+Dickens,0,0,0.0,1
+Naples,0,0,0.0,1
+Karenina,0,0,0.0,1
+Countess Vronskaya,0,0,0.0,2
+Marie,0,0,0.0,4
+Flung,0,0,0.0,1
+Vassya,0,0,0.0,1
+herself—“Stepan Arkadyevitch,0,0,0.0,1
+Waltz,0,0,0.0,1
+A. Karenin,0,0,0.0,1
+Liza Merkalova’s,0,0,0.0,1
+Bondarenko,0,0,0.0,1
+Bertenev,0,0,0.0,1
+Prince Tcharsky,0,0,0.0,1
+Hitherto,0,0,0.0,1
+jovial,0,0,0.0,1
+homme qui n’a pas,0,0,0.0,1
+Glad,0,0,0.0,1
+Korney Vassilievitch,0,0,0.0,1
+Kootik,0,0,0.0,1
+Princess Sorokina,0,0,0.0,2
+Cook,0,0,0.0,1
+Maman,0,0,0.0,1
+Malthus,0,0,0.0,3
+Gretchen,0,0,0.0,1
+mais,0,0,0.0,1
+Uncle Gerasim,0,0,0.0,1
+Midday,0,0,0.0,1
+acacia,0,0,0.0,1
+votre devoir,0,0,0.0,1
+Anna of,0,0,0.0,1
+Anna answered Sviazhsky,0,0,0.0,1
+Matthew,0,0,0.0,1
+Marya Vassilievna,0,0,0.0,1
+Darya Dmitrievna,0,0,0.0,2
+Levin hesitated—“oh,0,0,0.0,1
+Vronsky felt,0,0,0.0,1
+Serpuhovskey,0,0,0.0,1
+Nastia,0,0,0.0,1
+La Belle Hélène,0,0,0.0,1
+Vassiltchikov,0,0,0.0,1
+Myakov,0,0,0.0,1
+Thérèse,0,0,0.0,1
+Eve,0,0,0.0,1
+Foulde’s,0,0,0.0,1
+Siniavin,0,0,0.0,1
+Paul,0,0,0.0,1
+Edwarde,0,0,0.0,1
+Jesus Christ,0,0,0.0,1
+Gogol,0,0,0.0,1
+Marya Dmitrievna,0,0,0.0,1
+syllables rang,0,0,0.0,1
+Vouchsafe,0,0,0.0,1
+Count Siniavin,0,0,0.0,1
+Alphonse Karr,0,0,0.0,1
