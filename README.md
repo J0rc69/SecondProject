@@ -1,5 +1,5 @@
-# Project X 
-Group members: Y, Z
+# Applied NLP Project — Comparing War and Peace & Anna Karenina
+Group members: Joranas Cigas, Daved Tawdros, Jakhongir Erkinov, Chriswen Baiju
 
 This repository contains the materials for **Project X**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
