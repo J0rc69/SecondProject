@@ -1,0 +1,21 @@
+character,degree,weighted_degree,betweenness,mentions,book
+Pierre,201,675,0.1232337974236131,1125,war_auto
+Prince Andrew,134,560,0.0563425342230625,633,war_auto
+Nicholas Rostóv,121,491,0.06921244247779734,478,war_auto
+Mary Hendríkhovna,84,410,0.0348639082337153,451,war_auto
+Kutúzov,125,338,0.06119079195803435,377,war_auto
+Rostóv,98,253,0.05143375439515054,294,war_auto
+Sónya,57,242,0.027424695359527494,267,war_auto
+Andrew Bolkónski,69,227,0.02325041586198161,176,war_auto
+Denísov,57,189,0.026082572529752095,246,war_auto
+Borís Drubetskóy,70,187,0.03093657081677236,156,war_auto
+Levin,130,493,0.1657312009699251,1073,anna_auto
+Anna Arkadyevna,87,471,0.08312791173611093,628,anna_auto
+Kitty Shtcherbatskaya,86,372,0.07765049413313399,489,anna_auto
+Vronsky,81,342,0.1022297853358707,363,anna_auto
+Alexey Alexandrovitch,69,273,0.07965664486358914,417,anna_auto
+Betsy Tverskaya,26,100,0.014705417033468166,102,anna_auto
+Stepan Arkadyevitch,34,95,0.028153780597516238,171,anna_auto
+Darya Alexandrovna,29,86,0.02053321037820286,99,anna_auto
+Varenka,20,70,0.018514921528831392,110,anna_auto
+Yashvin,22,56,0.012091548648958065,57,anna_auto

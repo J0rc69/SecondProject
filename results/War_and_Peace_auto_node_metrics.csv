@@ -1,0 +1,1007 @@
+character,degree,weighted_degree,betweenness,mentions
+Pierre,201,675,0.1232337974236131,1125
+Prince Andrew,134,560,0.0563425342230625,633
+Nicholas Rostóv,121,491,0.06921244247779734,478
+Mary Hendríkhovna,84,410,0.0348639082337153,451
+Kutúzov,125,338,0.06119079195803435,377
+Rostóv,98,253,0.05143375439515054,294
+Sónya,57,242,0.027424695359527494,267
+Andrew Bolkónski,69,227,0.02325041586198161,176
+Denísov,57,189,0.026082572529752095,246
+Borís Drubetskóy,70,187,0.03093657081677236,156
+Dólokhov,47,151,0.018336733753941497,193
+Mademoiselle Bourienne,35,128,0.00963903588684359,92
+Pétya Rostóv,43,124,0.012864346942987914,149
+Anna Pávlovna,42,97,0.014920252909830387,110
+Anna Mikháylovna,37,94,0.013665913449322626,89
+Bennigsen,46,92,0.013042705294069108,47
+Vasíli Dmítrich,38,80,0.009747859569129639,59
+Bonaparte,52,69,0.028156032124019452,43
+Alexander,54,68,0.03515016275663958,58
+Berg,32,66,0.012838465338781,70
+Pfuel,25,66,0.002291774068704242,23
+Bezúkhov,34,65,0.012907813681208625,42
+Petersburg Prince Andrew,35,64,0.011396006111295274,42
+Julie Karágina,27,61,0.00864025444407381,49
+Speránski,26,61,0.00653361363440832,40
+Bilíbin,38,58,0.011352687134484545,56
+Arakchéev,36,56,0.01630502175929544,36
+Prince Andrew’s,26,53,0.006676537666529009,39
+Márya Dmítrievna,22,51,0.008026254250264346,69
+Dolgorúkov,26,46,0.016527154665524735,34
+Bolkónski,24,45,0.007094763557904133,37
+Ilyá Rostóv,29,41,0.011198020492964983,25
+Wolzogen,20,41,0.0025640628249210466,16
+Countess Mary,16,40,0.0013990243046567321,37
+Drissa,17,36,0.00357091206909403,18
+Mamma,18,35,0.0029388945267807163,50
+Hélène,20,35,0.0071557664066793075,35
+Lise,15,34,0.001791874251802058,25
+Prince Vasíli,19,33,0.003717692158286911,19
+Dokhtúrov,23,33,0.01103454226746421,15
+Armfeldt,17,32,0.00041959994051468506,6
+Anatole Kurágin,22,32,0.004890750257856057,14
+Ilyín,12,32,0.0015901587122494883,29
+Uncle,19,31,0.006331544574257263,24
+Borodinó,24,31,0.01649416339417883,31
+Paulucci,18,30,0.0017675727419553273,8
+Michael Ivánovich,19,30,0.009158699731810369,28
+Michaud,17,27,0.0038695109100595846,15
+Stein,16,25,0.0007024308267046031,4
+Véra,10,25,0.001565262713068939,21
+wolf,12,25,0.004234423865793992,15
+Francis,19,25,0.0038512838049840244,11
+Anna Pávlovna’s,16,24,0.002636575716344038,19
+Tsar,17,24,0.007626340309030405,34
+Wintzingerode,17,24,0.0010693325037695917,7
+Joseph Alexéevich,16,23,0.00541857926119161,12
+Konovnítsyn,12,21,0.002937507643181288,17
+Chernýshev,12,21,0.000478035555195708,5
+Anna Mikháylovna’s,13,21,0.0021642323776855134,8
+Catherine Petróvna,18,21,0.008778085387883596,13
+Platón Karatáev,8,21,0.0015483040954089003,22
+Paul,17,21,0.004797047438500861,6
+Raévski,17,21,0.005980202254977871,15
+Magnítski,11,20,0.0014593921816618133,8
+Nesvítski,13,19,0.005316844390434927,38
+Bagratión,15,19,0.003654504876195225,12
+Mademoiselle Bourienne’s,8,19,0.0011475553494406708,12
+Kurágin,14,19,0.007240924283397875,13
+Prince Bolkónski,12,19,0.0023251079518879754,18
+Buonaparte,18,19,0.008914463519123754,16
+Princess Mary,10,19,0.00010651414202905759,43
+Peter Kirílych,12,18,0.0013327608582420485,16
+Kaysárov,12,18,0.002218662101444445,7
+Nicholas Bolkónski,14,18,0.0024120828666999135,15
+Dron,10,18,0.0031328231142021975,40
+mon cher,17,18,0.00971484400525165,13
+Thou,15,17,0.01176370326604478,7
+Karáy,7,16,0.0002005418389657516,9
+Bezúkhova,14,16,0.002920018035302757,12
+God,15,16,0.005128724634728779,5
+Rumyántsev,15,15,0.002414726205172362,6
+Karatáev,3,15,0.0,21
+Willarski,7,15,0.000271477552041016,13
+Majesty,14,15,0.011346572807550859,18
+Dessalles,8,15,0.0014241732122835871,7
+Balashëv,10,14,0.00579429481094496,32
+Prince Volkónski,12,14,0.0011655668172337614,4
+Lorrain,7,14,0.00019726771326040288,8
+Klyucharëv,12,14,0.0008443166307169575,5
+Karágins,9,14,0.0005379026981464867,6
+Langeron,10,14,0.0002758413100764701,10
+Daniel Teréntich,9,14,0.0019976349434640403,16
+Krásnoe,7,14,0.002287040771154177,12
+Timókhin,8,14,0.0007509601350695854,23
+Suvórovs,13,13,0.006656810413966536,3
+Michael Ilariónovich,11,13,0.0009045768660537336,5
+Marie,7,13,2.5726149769277215e-05,6
+Danube,12,13,0.007713443925170473,10
+Thy,11,13,0.0031878054981115274,7
+Napoleon,11,13,0.0017846980819706095,8
+Yaroslávl,8,13,0.0003778561547592769,10
+Cyril Vladímirovich,9,13,0.0020844927096180968,7
+Ermólov,8,12,0.0007056124852255782,16
+Schmidt,9,12,0.0009965783543406735,8
+Serene Highness,6,12,0.0015154472753657843,12
+Prince Hippolyte,8,12,0.0033977692903374435,24
+Lavrúshka,8,12,0.0015861086096864573,17
+Dimmler,7,11,0.000774779660709635,8
+Bedouin,8,11,0.00042191639201468194,5
+Natásha,9,11,0.0027814325056356236,18
+Drubetskóy,8,11,0.00045731931808895836,7
+Mack,7,11,0.0003563069247753702,11
+Don,10,11,0.00153251560977805,4
+Papa,8,11,0.00374633736749715,10
+Sergéy Kuzmích,7,11,2.032646767141623e-05,6
+Kozlóvski,4,11,2.2156433287704133e-05,15
+Monsieur Pierre,9,11,0.0035130100162542553,12
+Countess Apráksina,10,10,0.003526474739761308,2
+Ramballe,3,10,0.0014191988265842104,15
+Louis XVI,9,10,0.001139693572034093,3
+Hofkriegsrath,7,10,0.0005119998409004486,5
+Granddad,7,10,0.00010434115924959872,3
+Nicholas Bolkónski’s,9,10,0.0029266631291857787,3
+Mary Alexéevna,7,10,0.0002966667509938876,2
+Berëzina,5,10,3.162117125168851e-05,6
+Count Ostermann-Tolstóy,10,10,0.003633784700588918,2
+Prince Bagratión,5,10,0.0028374065925353313,13
+Antichrist,10,10,0.002131652581127744,4
+Goliath,8,9,0.0021035628148309516,4
+Suvórov,8,9,0.0,2
+Perónskaya,7,9,0.0015040998080664255,6
+Moreau,8,9,0.0,2
+Louis XV,9,9,0.001433083429831622,2
+Louis XIV,8,9,0.0021668416623232896,4
+Marquis Paulucci,6,9,2.331044684020839e-05,2
+Louis XVIII,8,9,0.0021668416623232896,2
+Markóv,9,9,0.0013229141823247177,3
+Anna Pávlovna Schérer,8,9,0.0003773203014695939,4
+Rostopchín,9,9,0.0029619555281635785,6
+Leppich,8,8,0.0021904808364908213,4
+Michael Kutúzov,8,8,2.477651582723831e-07,1
+Joseph Alexéevich’s,6,8,8.409606270954096e-05,5
+Prince Auersperg,8,8,0.0008577002439562654,2
+Emperor,8,8,0.003128252753322204,2
+Countess Bezúkhova,8,8,0.00468870050119238,7
+Novosíltsev,8,8,0.00016945596105299115,2
+Frederick,8,8,2.477651582723831e-07,1
+Lannes,8,8,0.00034054837222585006,2
+Orlóvs Germans,8,8,2.477651582723831e-07,1
+Pahlen,8,8,2.477651582723831e-07,1
+Hofs,8,8,2.477651582723831e-07,1
+gallop,7,8,0.00041254964251895754,4
+Besuhof,8,8,0.0002415114883631752,3
+du feu,7,7,0.00011030287034565899,1
+bush,7,7,0.003950037268657034,4
+Bolkhovítinov,5,7,0.001860928484566303,9
+Mais,7,7,0.000952215125126768,4
+Kórchevo,7,7,0.0008154332392218271,2
+Caroline the,7,7,0.0007482436130595945,1
+shabby cadet,7,7,0.0007482436130595945,1
+Dórokhov,6,7,8.315705722574933e-05,3
+Yaúza,5,7,0.0,5
+von Mautern,7,7,0.00011030287034565899,1
+Scriptures,7,7,0.0012147739211041744,2
+Zakhár,3,7,0.0,7
+David,6,7,0.0003555856180395951,2
+Prince Nicholas,6,7,0.0009245924943418815,3
+Rostóvs,6,7,0.0021508897021103404,5
+Czartorýski,7,7,0.0014281029138747884,2
+Mary Hendríkhovna’s,3,7,0.0,5
+dim-eyed,7,7,0.0006153110478868085,1
+Bélaya Tsérkov,5,7,0.001333670947077863,3
+Charles,7,7,2.477651582723831e-07,1
+Mademoiselle George,7,7,0.002312717151520687,10
+Hippolyte,6,7,0.000932148116436462,6
+Márya Dmítrievna’s,4,7,0.00044320828380197785,10
+Louis XIV’s,7,7,2.477651582723831e-07,1
+Louis Philippe,7,7,2.477651582723831e-07,1
+Rameau,6,7,0.00045637073339749524,2
+Charles X,7,7,2.477651582723831e-07,1
+Mílka,3,7,0.0003375064138818965,5
+Zinaída Dmítrievna’s,7,7,0.0006153110478868085,1
+gaunt,7,7,0.0006153110478868085,1
+Drubetskáya,7,7,0.000875369353245966,2
+Gospel,6,6,0.0007407609058328006,4
+Je,6,6,0.0014103156126248472,5
+Saviour,6,6,0.0024304129207999674,6
+Túchkov,6,6,0.00395947920162022,6
+Solomon,6,6,0.00021144566936228323,3
+Alexandre,6,6,0.0014191988265842104,2
+Assessor,6,6,8.904087290578232e-06,1
+Councilor,6,6,8.904087290578232e-06,1
+Cossack,6,6,0.0008114821805564961,5
+Armfeldts,6,6,0.00011061700434159562,1
+Seslávin,5,6,0.0003033844105046657,2
+Steins,6,6,0.00011061700434159562,1
+Bennigsens,6,6,0.00011061700434159562,1
+Mary Víktorovna,6,6,0.0006060171911739036,1
+Radzivílov,6,6,0.0007171355542257362,1
+Katie,5,6,0.00040955052118115656,6
+Voilà Marie,6,6,0.0005331184018106975,1
+Zdrzhinski,5,6,0.0003654878622751093,3
+Donéts,4,6,0.0001098465882362725,4
+Sergéy Kuzmích Vyazmítinov,6,6,0.0006060171911739036,1
+Chubby,6,6,0.0004674986318931046,1
+Prince Vyázemski,6,6,2.308576129541122e-05,1
+Schön Grabern,4,6,0.0006482959577966894,7
+Augustin,5,6,0.0,2
+Apocalypse,6,6,0.0003062536767968257,3
+Prince Meshchérski,5,6,0.0006969749917601673,2
+Karp,4,6,0.0014191988265842104,12
+Valúev,6,6,2.308576129541122e-05,2
+Yúri Dolgorúkov,6,6,2.308576129541122e-05,1
+Vozdvízhenka,5,5,0.0032807500695698133,4
+Uncle Pierre,5,5,0.0010499937008386652,1
+Akhrosímova,4,5,0.00048131314166209116,3
+Angel,5,5,3.7378648447279366e-05,2
+chin,5,5,4.614711940886837e-05,1
+Natalie,4,5,0.0007941386882792436,8
+Stolýpin,4,5,3.2390624736697446e-05,2
+Dmítrov,5,5,6.813497986567713e-05,1
+Comte Pierre Besouhoff,5,5,0.0,1
+Friedland,4,5,0.0005210105126898178,4
+Sérpukhov,5,5,6.813497986567713e-05,1
+Gervais,4,5,3.2390624736697446e-05,2
+Pelagéya Danílovna,5,5,0.0006774959763378281,9
+Hélène Bezúkhova,5,5,0.0012901544412221814,1
+Cygne,3,5,0.0,2
+Julie saw Borís’,5,5,4.614711940886837e-05,1
+Túla,5,5,6.813497986567713e-05,1
+marry Bourienne,5,5,0.0005820466399199671,1
+Lopukhín,5,5,0.0004708792986645449,2
+Vítebsk,5,5,0.0012827426318204323,5
+Dmítri,5,5,0.0008459439580349629,8
+Madame de Staël,5,5,0.00014320917012499985,1
+Melyukóvs,5,5,0.0038510899653484954,6
+Ostermann,5,5,0.00024797180578775666,3
+aussi spirituelle,5,5,5.97136250310789e-05,1
+Vogel,5,5,0.0006689088573811377,1
+Hélène Bezúkhova’s,5,5,5.97136250310789e-05,1
+que belle,5,5,5.97136250310789e-05,1
+Simon,5,5,0.00158723267003183,9
+Alexander Pávlovich,5,5,3.7378648447279366e-05,1
+Vicomte,4,5,0.00018533210698610646,3
+Mortier,5,5,0.0017708360580820036,4
+Aubert-Chalmé,5,5,1.4536528657593472e-05,1
+Savélich,2,5,0.0,6
+Petersburg Pierre,5,5,0.0005057870297194516,1
+Thomas à Kempis,5,5,0.0005057870297194516,1
+merry,5,5,0.0009684675160013654,1
+de la Vièrge,5,5,0.0010499937008386652,1
+Gospels,5,5,0.0020435571967647023,3
+Vyazmítinov,4,4,1.5757985894786035e-05,1
+Anna Mikháylovna Drubetskáya,4,4,0.0005365816481453523,2
+Prince de Hohenlohe,4,4,9.237183124406158e-05,1
+Englishman,2,4,0.0,5
+Aliment de poison,4,4,0.0,1
+Golítsyn,3,4,0.00045609014924323147,3
+“Prince Vasíli’s,4,4,0.0002186267801137263,1
+Shevárdino,4,4,0.001149784003929986,6
+Pétenka,4,4,0.0,1
+de ma,4,4,0.0,1
+Fédya,3,4,0.0,2
+Prince Dolgorúkov,3,4,0.003648199952181292,4
+Aunt,2,4,0.0,8
+Rhetor,1,4,0.0,6
+Prince Schwartzenberg,4,4,0.0004888700051282439,1
+Elizabeth,4,4,0.0042457037521555566,2
+Valúevo,4,4,0.002834433410636063,3
+Saltykóv,4,4,1.5757985894786035e-05,1
+Auerstädt,4,4,0.00031897372877307857,4
+Sávishna,4,4,0.00027262494123217365,1
+Gallop,4,4,0.00010328309988843974,2
+Count Rostopchín,4,4,0.00017751263035130105,5
+Knyazkóvo,4,4,0.0008492247345394763,3
+Apráksins,4,4,3.64494858049337e-05,2
+Prince de Lichtenstein,4,4,9.237183124406158e-05,1
+Comte de Langeron,4,4,9.237183124406158e-05,1
+Zherkóv,4,4,0.0014804448845032003,8
+Saint Peter,4,4,0.00023577173201555553,1
+Mademoiselle Przazdziecka,4,4,1.995289803927962e-05,1
+Postmaster,4,4,2.558738361794793e-06,1
+Uncle Shinshín,4,4,0.0005109230319475525,1
+Tendre,4,4,0.0,1
+G. V. and,4,4,0.0,1
+O,4,4,0.0,1
+N. and S,4,4,0.0,1
+Rousseau,4,4,0.0018742398815804597,3
+Nicholas Andréevich,4,4,0.00021948655304907368,2
+Golukhovski,4,4,1.995289803927962e-05,1
+Básov,4,4,1.995289803927962e-05,1
+Shcherbínin,3,4,3.9642425323581296e-06,4
+Bogdánich,3,4,0.0,4
+Hurrah,4,4,0.0016968817270618883,6
+Andrew Savostyánov’s,4,4,0.00043339904823849756,1
+Bítski,4,4,0.00013958251710958957,2
+Dóbroe,3,4,9.282934596605287e-06,2
+Váska Denísov,4,4,0.00016351616508458082,6
+un ami,4,4,0.0,1
+mais pas pour,4,4,0.0,1
+Quarante mille,4,4,0.0,1
+Buxhöwden,4,4,0.0003328088756804932,5
+garçon de rien comme cet individu,4,4,0.0,1
+Louisa Ivánovna,2,4,0.0,3
+Zhilínski,2,4,0.0,3
+Count Ostermann,4,4,9.78596448883749e-05,2
+Maria Theresa,4,4,0.0005123371042034852,2
+Saint Paul,4,4,0.00023577173201555553,1
+sans qui,4,4,0.0,1
+douceur,4,4,0.0,1
+Masons,3,4,0.0,2
+Melyukóvka,3,4,0.0,3
+Adam,2,3,0.0,2
+Gerásim,3,3,0.0014191988265842104,2
+Saragossa,3,3,0.00012123063219695135,1
+Rich,3,3,0.0001689296795763491,1
+jeune homme,3,3,0.0,2
+amie,3,3,0.0,1
+Charles IX’s,3,3,0.00040667025086131814,2
+Mademoiselle George’s,3,3,0.0,1
+Métivier,3,3,0.0,3
+Princesses Gorchakóv,3,3,0.000988783790605187,1
+Everywhere Bonaparte,3,3,0.0004032204084259538,1
+Mary Ivánovna,3,3,4.597530290754586e-05,1
+Mary Bogdánovna,2,3,0.0,9
+Philip,2,3,4.559687469837914e-06,2
+Evidently Speránski,3,3,9.697984083924729e-05,1
+Qui,3,3,0.00013371446280675402,3
+Napoleon Bonaparte,3,3,0.00017425248795142748,1
+Peter Fëdorovich’s,3,3,0.0,1
+Weib,3,3,0.0,1
+Vewy,2,3,0.0,2
+Wallachia,3,3,0.0,1
+Alexander Moldavia,3,3,0.0,1
+Anísya Fëdorovna,3,3,0.002856392732573523,7
+Kámensky,3,3,0.00021948655304907368,1
+Daniel whispered,3,3,0.0006741764854400154,1
+Militiamen,3,3,0.0003657102128226444,1
+Natásha Pierre,3,3,0.0006244065453631484,1
+Clausewitz,3,3,0.0005260087478029178,1
+Herr,3,3,0.0001903329345011316,1
+Lyádov,3,3,0.002633894343319552,2
+Nikíta,3,3,0.0014191988265842104,2
+Moldavia,3,3,0.0,1
+Schoss,2,3,0.0014191988265842104,8
+Word,3,3,2.327489953485721e-05,1
+Pierre Bezúkhov,3,3,0.0004982655054859529,2
+Tilsit,3,3,0.0003530975366171792,3
+das soll,3,3,0.0,1
+Véra Rostóva,3,3,0.0,1
+Arábchik,3,3,0.000195083100589255,1
+B,3,3,0.0,1
+Gabriel,2,3,0.0,4
+Holy Ghost,3,3,2.6981360483118258e-05,1
+Franz,3,3,9.237183124406158e-05,1
+Karl Bogdánich Schubert,3,3,0.00016654395678319955,1
+Synod,3,3,0.0012059286658921108,1
+Kirghíz,3,3,0.0005835113313565914,1
+Múdrov,3,3,0.0,1
+Frise,3,3,0.0,1
+Arbát,2,3,0.0,4
+Prince Hippolyte Kurágin,3,3,1.3040473146594074e-05,1
+Brünn,3,3,9.327198759290381e-05,2
+Milorádoviches,3,3,4.9681432805652355e-05,1
+Son,3,3,2.6981360483118258e-05,1
+tipsy,3,3,0.0007900308250424253,4
+Túshin,3,3,0.0005567016577139284,3
+Peter Petróvich Konovnítsyn,3,3,4.9681432805652355e-05,1
+Alexéy Petróvich,3,3,0.001680698763486346,1
+Bórovsk,3,3,6.631828994121719e-05,1
+Figner,3,3,1.6636857135564837e-05,1
+Frenchmen,3,3,0.0016921445594742718,3
+daughter.)—“My,3,3,0.0004897976591699461,1
+Likhachëv,3,3,0.0002333335273163097,4
+Cadet Rostóv,3,3,0.00016124196708533159,1
+Amélie,3,3,9.436541387844299e-05,2
+Cyril Vladímirovich Bezúkhov,2,3,0.0,3
+Mary Bolkónskaya,3,3,3.7848371315482526e-05,2
+Louis XVII,3,3,0.0,1
+Bourbon,3,3,0.0,1
+Queen,3,3,0.0,2
+Marry,3,3,0.0001689296795763491,2
+Kurágins,3,3,0.0006241452183934479,3
+Sismondi,3,3,0.0004550410549962501,1
+Countess Véra,3,3,0.0004982655054859529,2
+Countess Rostóva’s,3,3,9.393950506948618e-05,1
+Strauch,3,3,0.00020839491787224342,1
+Lieutenant Berg,3,3,0.000302935844032256,1
+think?”—she,3,3,0.00027099636483041834,1
+Jerome,3,3,0.0,1
+"couture,*(3",3,3,0.0,1
+rang,3,3,0.00011899713497734213,3
+Faster,3,3,0.0028364155319022416,3
+Epistles,3,3,0.0,1
+Kitty Odýntsova,3,3,0.00016309724100459157,1
+Alexander Prince Vasíli,3,3,6.0663544993929636e-05,1
+Michael Zakhárych,3,3,0.00017116971138664972,1
+russe de cœur,2,3,0.0,2
+Constantine Pávlovich,3,3,0.0002816816246015662,1
+Paul Timoféevich,3,3,0.00017116971138664972,1
+Arnauts,3,3,0.00011598154635267165,1
+Gazette,3,3,0.00029907265271695573,2
+Prince Peter Mikháylovich Volkónski,3,3,2.2779745940962207e-05,1
+Tit,3,3,0.0016423151594331716,4
+Pierre and Nesvítski,3,3,0.0016921445594742718,1
+Adráksin,2,3,0.0,2
+Guardsmen,3,3,0.00011598154635267165,1
+Baron Stein,3,3,2.2779745940962207e-05,1
+Olga,2,2,0.00015685988408452423,2
+Anna Schérer’s,2,2,6.387673660691195e-05,1
+Anísya Fëdorovna’s,2,2,2.1959321937459944e-05,1
+Rugáy,2,2,2.1959321937459944e-05,1
+Alexander Golítsyn,2,2,0.0,1
+highfalutin words,2,2,0.0,1
+Lubomírski,2,2,0.0,1
+Anna Makárovna,2,2,7.916111457640232e-05,3
+Karágina,2,2,8.298497040482087e-05,1
+Jacquot,2,2,0.0005250626177844542,1
+Moskowa,2,2,0.0,1
+Voltaire,2,2,0.0,1
+Dessaix,2,2,0.0014191988265842104,4
+Obolénski,2,2,4.8453465254083915e-05,2
+Pitt,2,2,0.00027502003622006883,1
+Count T,2,2,0.0,1
+Ilyúshka,2,2,1.987938158312513e-05,2
+Davýdov,2,2,0.0,2
+Gírchik,2,2,0.0,1
+Matthew Ermíshin,2,2,0.0001689296795763491,1
+Dmítri Onúfrich,2,2,0.0,1
+Semënovsk,2,2,0.0,1
+Mítka,2,2,0.0014191988265842104,3
+Nastásya Ivánovna,2,2,0.0001555982549182,2
+Catherine Semënovna,2,2,0.0,2
+Michael Sidórych,2,2,0.0,1
+Herr Dimmler,2,2,0.0,1
+sprang helter-skelter,2,2,2.8704406521151124e-05,1
+Daniel Cooper,2,2,0.0001353783799200149,3
+Que,2,2,0.0,1
+meek,2,2,1.9821212661790648e-06,2
+Drónushka,2,2,0.0,2
+Wagram,2,2,0.0,3
+Prince Theodore,2,2,6.423615319702218e-05,2
+Prince Vasíli Sergéevich,2,2,6.208930793295497e-05,2
+Genlis,2,2,0.0002231163328489606,1
+Potier,2,2,0.0,1
+Pelagéya Danílovna’s,2,2,0.0001555982549182,1
+Irína Vasílevna,2,2,2.051163931672694e-05,1
+Peter Ivánovich Bagratión,2,2,0.0,1
+Apráksin,2,2,0.0,1
+Mucius Scaevola,2,2,0.0004550410549962501,1
+Prince Hippolyte’s,2,2,0.0004920284675679709,1
+Raévski Redoubt,2,2,0.0008803035910499501,1
+Kutáysov,2,2,0.0,2
+Talma,2,2,0.0,1
+Dmítri Sergéevich,2,2,0.00019313970689791257,1
+Soyez,2,2,4.8046133760559155e-05,1
+Peter the Hermit,2,2,0.0,1
+Robespierre,2,2,0.0009040455379523762,1
+Shevárdino Redoubt,2,2,0.00014506537525623415,2
+Godfreys,2,2,0.0,1
+Minnesingers,2,2,0.0,1
+Funke,2,2,1.9452130291039797e-05,3
+Prince Vasíli Kurágin,2,2,0.0,1
+Stevens,2,2,0.0003980788827121937,2
+Jacob,2,2,0.00024676674516679734,1
+Julie latterly,2,2,1.2405590626395184e-05,1
+Theodore Uvárov,2,2,7.54259336896037e-05,1
+Górki,2,2,0.00045609014924323147,3
+Kornikí,2,2,0.0,1
+Orlóv,2,2,0.0005918280693980303,3
+Duchénois,2,2,0.0,1
+Mamónov,2,2,0.0001483978130051367,1
+Stepánovich Adráksin,2,2,0.0007095994132921052,1
+Chatróv,2,2,0.00027502003622006883,1
+Der Krieg,2,2,0.0,1
+Der,2,2,0.0,1
+God Himself,2,2,7.916111457640232e-05,1
+Ansicht,2,2,0.0,1
+Elias Mitrofánych,2,2,0.0,1
+Mimi,2,2,8.688985930065887e-05,3
+Tambóv,2,2,0.0,1
+Paul Ivánovich Kutúzov,2,2,0.0,1
+Dmítri Vasílevich,2,2,0.0,1
+Ilágins,2,2,0.0,1
+Malvíntseva,2,2,0.0003657739973418366,1
+The King of Prussia,2,2,9.76982848095866e-05,2
+Sometimes Pierre,2,2,0.00010570309403947639,1
+Comte N. N.—le,2,2,0.0,1
+Capitaine S. S,2,2,0.0,1
+Barclay de Tolly,2,2,4.235540466357966e-05,1
+Andrew kissed,2,2,5.658978501849372e-05,1
+Vasílich,2,2,0.00012187853758202218,3
+Peter Petróvich,2,2,0.00048675246303487955,1
+Shúya,2,2,0.0,1
+Glogau,2,2,5.052549779548665e-05,1
+Dokhtúrov—Kutúzov,2,2,0.0,1
+Medýn,2,2,8.510087491710057e-05,1
+Gúryev,2,2,0.00012535508035368598,1
+Vladímir,2,2,0.0,2
+Beyond Shámshevo,2,2,0.00023426272636902618,1
+Beside Denísov,2,2,5.940071350073137e-06,1
+Sergeant Fédchenko,2,2,0.00032641002070555155,1
+Captain Brózin,2,2,0.0,1
+Ekonómov,2,2,4.0568905564539684e-05,2
+Joseph Bazdéev’s,2,2,0.0014191988265842104,2
+Agraféna Ivánovna,2,2,0.0,3
+Gentleman,2,2,6.423615319702218e-05,1
+Prince V,2,2,0.0,1
+La voilà donc enfin,2,2,0.0,1
+Husband,2,2,0.0,2
+n’t Hippolyte,2,2,9.597070486849264e-05,1
+Moscou la,2,2,0.0,1
+Je suis,2,2,0.0001240829576964319,1
+Eýkhen,2,2,0.0,1
+Count Ostermann-Tolstóy’s,2,2,0.0,1
+Broussier,2,2,8.510087491710057e-05,1
+Drowsiness,2,2,0.0,1
+Deméntyev,2,2,0.00012535508035368598,1
+Joseph Bazdéev,2,2,0.0,2
+Topchéenko,2,2,0.00012535508035368598,1
+Bazdéevs,2,2,0.0,1
+Empewo,2,2,4.6068860867887575e-05,2
+now”—Michael Ivánovich,2,2,0.00013159189334006988,1
+Pokróvka Streets,2,2,0.0,1
+un sot,2,2,6.544468175555767e-05,1
+Maman,2,2,0.0,2
+Villain,2,2,0.0,1
+Firhoff,2,2,3.133723192770693e-05,1
+Hoch Russen,2,2,0.0,1
+the von Bergs,2,2,7.417612132988161e-05,1
+Andrew Nikoláevich,2,2,0.0,1
+Amalek,2,2,1.0397287964161082e-05,1
+Vienna Kutúzov,2,2,0.0002231163328489606,1
+Captain Timókhin,2,2,0.0014191988265842104,2
+Prince Prozoróvski,2,2,0.00012123063219695135,1
+Religion,2,2,0.0,1
+Near Dóbroe,2,2,0.00034959131197128773,1
+Wlocki,2,2,0.0,1
+Petersburg Berëzina,2,2,7.805542523268191e-05,1
+Countess Zúbova,2,2,0.00016852831411488908,2
+someone?—he,2,2,6.423615319702218e-05,1
+Stepán Stepánych,2,2,0.0,1
+Mary Abrámovna,2,2,0.0,1
+Daniel the head,2,2,0.00017145549172658915,1
+Kaiser Alexander,2,2,0.0,1
+Márya Antónovna Narýshkina,2,2,1.9164531860018563e-05,1
+Rook,1,2,0.0,5
+Entrez,2,2,0.0,1
+Ozheg-zheg,2,2,6.927243557619344e-05,1
+Lelorgne d’Ideville,2,2,0.0,3
+Nikólski,2,2,0.0,1
+Tell Denísov,2,2,0.0001470645322996067,1
+mot d’ordre,2,2,0.0,1
+Monsieur de Jobert,2,2,0.0,1
+Sufferer,2,2,8.44332474724013e-05,1
+N’ayez pas peur,2,2,0.0,1
+Agraféna Ivánovna Belóva,2,2,0.0,1
+buff,2,2,6.0819074932908316e-05,4
+Sacred Heart,2,2,0.0,1
+de Charon,1,1,0.0,1
+Kiríl Andréevich,1,1,0.0,1
+Joconde,1,1,0.0,1
+Michael Ivánovich’s,1,1,0.0,2
+“Prince Andrew,1,1,0.0,1
+Baron Asch,1,1,0.0,1
+Arc,1,1,0.0,1
+Joan,1,1,0.0,1
+Dron Zakhárych,1,1,0.0,1
+windy evening,1,1,0.0,1
+Asch,1,1,0.0,1
+Diana,1,1,0.0,2
+Barbara Ivánovna,1,1,0.0,2
+Monsieur Kiril,1,1,0.0,3
+Denísov overnight,1,1,0.0,1
+He”—he,1,1,0.0,1
+Michael Feoklítych,1,1,0.0,1
+Komaróv,1,1,0.0,1
+Esaul Lováyski,1,1,0.0,1
+Vlas,1,1,0.0,1
+Barthélemi,1,1,0.0,1
+Litashëvka,1,1,0.0,1
+Flabby,1,1,0.0,1
+Lily,1,1,0.0,1
+Captain Yákovlev,1,1,0.0,1
+Sabastiani,1,1,0.0,1
+Bagovút,1,1,0.0,1
+Vólga,1,1,0.0,1
+Brónnikov,1,1,0.0,1
+Lavra,1,1,0.0,1
+Saint Nicholas,1,1,0.0,1
+Prince Shcherbátov’s,1,1,0.0,1
+Tíkhon,1,1,0.0,1
+Vincent Bosse,1,1,0.0,1
+Marshal Junot’s,1,1,0.0,1
+filez,1,1,0.0,1
+Nun,1,1,0.0,1
+Luther,1,1,0.0,1
+Je suis vot’e homme,1,1,0.0,1
+“Prince Theodore,1,1,0.0,1
+Kwüdener,1,1,0.0,1
+Mary Antónovna’s,1,1,0.0,1
+Prince Alexander,1,1,0.0,1
+strawberry,1,1,0.0,1
+England,1,1,0.0,1
+Petersburg Natásha,1,1,0.0,1
+Terénty,1,1,0.0,1
+Morel,1,1,0.0,2
+Bogdánovich,1,1,0.0,1
+Mary darling,1,1,0.0,1
+Peter Ilýnich,1,1,0.0,2
+Joseph de Maistre,1,1,0.0,1
+Filez,1,1,0.0,1
+Andrew rang,1,1,0.0,1
+Anna Ignátyevna,1,1,0.0,1
+Beyond Valúevo,1,1,0.0,1
+Poniatowski,1,1,0.0,1
+seemed topsy-turvy,1,1,0.0,1
+Sacred Host,1,1,0.0,1
+Jesus Christ,1,1,0.0,4
+Filí,1,1,0.0,1
+Scherbínin,1,1,0.0,1
+Davout,1,1,0.0,1
+Beside,1,1,0.0,1
+Gérard,1,1,0.0,5
+Campan,1,1,0.0,3
+Nikíta Iványch,1,1,0.0,1
+Pernetti,1,1,0.0,1
+Fabvier,1,1,0.0,1
+M. de Beausset,1,1,0.0,6
+Paul Ivánovich,1,1,0.0,1
+nicht den,1,1,0.0,1
+Zweck,1,1,0.0,1
+Márin,1,1,0.0,1
+Gerákov,1,1,0.0,1
+serfs,1,1,0.0,1
+Mávra Kuzmínichna,1,1,0.0,9
+Matrëna Timoféevna,1,1,0.0,1
+Nikítski,1,1,0.0,1
+Divine Providence,1,1,0.0,1
+Prince Kutúzov’s,1,1,0.0,1
+Márya Fëdorovna,1,1,0.0,1
+Mary Nikoláevna’s,1,1,0.0,1
+Ivánovs,1,1,0.0,1
+Gruzínski,1,1,0.0,1
+Prince Gruzínski’s,1,1,0.0,1
+Makár Alexéevich,1,1,0.0,1
+Theodore Vasílyevich Rostopchín,1,1,0.0,1
+Theodore Vasílyevich,1,1,0.0,1
+Robbery,1,1,0.0,2
+Dorogomílov,1,1,0.0,1
+ma tendre,1,1,0.0,1
+Maison de ma Mère,1,1,0.0,2
+Alexéevich,1,1,0.0,1
+Sophia Danílovna,1,1,0.0,2
+Podnovínsk Streets,1,1,0.0,1
+Providence,1,1,0.0,1
+Joshua,1,1,0.0,1
+Simon Chekmár,1,1,0.0,1
+l’honneur,1,1,0.0,2
+Wostóv,1,1,0.0,3
+white satin,1,1,0.0,1
+Márya Ignátevna Perónskaya,1,1,0.0,1
+Inn,1,1,0.0,1
+Petersburg Borís,1,1,0.0,1
+Traun,1,1,0.0,1
+Cadet Miwónov,1,1,0.0,1
+Cadet,1,1,0.0,1
+Genoa,1,1,0.0,1
+Fallen,1,1,0.0,1
+Russie,1,1,0.0,1
+Lázarev,1,1,0.0,4
+Prince Kozlóvski,1,1,0.0,1
+Count Rostóv,1,1,0.0,3
+Field Marshal Kutúzov,1,1,0.0,1
+Lazarchúk,1,1,0.0,1
+Elisaveta,1,1,0.0,1
+agile feet,1,1,0.0,1
+Mann,1,1,0.0,1
+Akínfi,1,1,0.0,1
+Odessa,1,1,0.0,1
+mon ami,1,1,0.0,1
+Theodore Iványch,1,1,0.0,6
+Másha,1,1,0.0,4
+Misha,1,1,0.0,2
+Archduchy,1,1,0.0,1
+Beside Kutúzov,1,1,0.0,1
+Prokhór Ignátych,1,1,0.0,1
+Fédeshon,1,1,0.0,1
+hazel bush,1,1,0.0,1
+Daniel gave,1,1,0.0,1
+Lyubím,1,1,0.0,1
+Bondarénko,1,1,0.0,1
+Count Peter,1,1,0.0,1
+Koko,1,1,0.0,1
+Cependant,1,1,0.0,1
+King Francis,1,1,0.0,1
+Mikhelson,1,1,0.0,1
+Larrey,1,1,0.0,3
+Praskóvya Sávishna,1,1,0.0,1
+Captain Túshin’s,1,1,0.0,1
+mon prince,1,1,0.0,1
+kinsman,1,1,0.0,1
+Narýshkin,1,1,0.0,1
+Bourienne,1,1,0.0,1
+Glad,1,1,0.0,1
+Prince Repnín,1,1,0.0,4
+Kolyázin,1,1,0.0,3
+gouvernement français,1,1,0.0,1
+Adam Czartorýski,1,1,0.0,1
+Thresh,1,1,0.0,1
+Captain von Toll,1,1,0.0,1
+Ilyá Iványch,1,1,0.0,1
+la guerre,1,1,0.0,1
+Mark,1,1,0.0,1
+Rostóv felt Rook’s,1,1,0.0,1
+Zakharchénko,1,1,0.0,1
+Kari,1,1,0.0,1
+Kaská,1,1,0.0,1
+Mary’s ‘God’s,1,1,0.0,1
+Count Vrbna,1,1,0.0,1
+Kiev Pierre,1,1,0.0,1
+Karl Ivánich,1,1,0.0,2
+Roi de Prusse,1,1,0.0,3
+Don Juan,1,1,0.0,2
+de l’homme,1,1,0.0,1
+notre alliée,1,1,0.0,1
+Shítov,1,1,0.0,1
+"M. Kronq,—chargé",1,1,0.0,1
+Near Hetzelsdorf Prince Andrew,1,1,0.0,1
+Odessa Masons,1,1,0.0,1
+Captain Túshin,1,1,0.0,2
+Joseph Alexéevich Bazdéev,1,1,0.0,1
+Count Willarski,1,1,0.0,2
+Sterne,1,1,0.0,1
+Ilyá Rostóv’s,1,1,0.0,2
+Lise Meinen,1,1,0.0,1
+Bolkónskaya,1,1,0.0,2
+Danílov,1,1,0.0,1
+Sventsyáni,1,1,0.0,1
+Volkónski,1,1,0.0,2
+Anatole Kurágin’s,1,1,0.0,1
+another’s,1,1,0.0,1
+Akhárovs,1,1,0.0,1
+Khvóstikov,1,1,0.0,2
+Matrëna Matrévna,1,1,0.0,1
+Annette,1,1,0.0,1
+calmer,1,1,0.0,2
+Peter Mikháylovich Volkónski,1,1,0.0,1
+Countess Rostóva,1,1,0.0,2
+Peters,1,1,0.0,1
+Empress Márya Fëdorovna,1,1,0.0,1
+Schubert,1,1,0.0,1
+Fahrenheit,1,1,0.0,1
+Charles XII,1,1,0.0,1
+Márya Ivánovna Dólokhova,1,1,0.0,1
+Thorn,1,1,0.0,1
+Michael Ilariónovich Kutúzov,1,1,0.0,1
+André,1,1,0.0,1
+Au,1,1,0.0,1
+Duroc,1,1,0.0,1
+Mlle Schérer,1,1,0.0,1
+Monsieur de Castrès,1,1,0.0,1
+Kurákin,1,1,0.0,3
+rebuke him,1,1,0.0,1
+Your Majesty,1,1,0.0,2
+Mámontov,1,1,0.0,1
+Princess Drubetskáya,1,1,0.0,1
+Fédya Obolénski,1,1,0.0,1
+Mademoiselle Karágina,1,1,0.0,1
+Catiche,1,1,0.0,1
+kindest,1,1,0.0,1
+Narýshkins,1,1,0.0,1
+Zat,1,1,0.0,1
+Liza,1,1,0.0,1
+Mademoiselle Julie Karágina,1,1,0.0,1
+Remember Thy,1,1,0.0,1
+Death,1,1,0.0,1
+Alénina,1,1,0.0,1
+Andrew Sevastyánych,1,1,0.0,1
+Peter Nikoláevich,1,1,0.0,3
+N. N,1,1,0.0,1
+knee breeches,1,1,0.0,1
+Beside Pétya,1,1,0.0,1
+Mary inquired,0,0,0.0,1
+Iván Lukích,0,0,0.0,1
+Nicholas Iványch,0,0,0.0,1
+Villier,0,0,0.0,1
+Fine,0,0,0.0,1
+ho,0,0,0.0,1
+la donne,0,0,0.0,1
+Buckle,0,0,0.0,1
+Aide-de-camp,0,0,0.0,2
+Voltaires,0,0,0.0,1
+Auersperg,0,0,0.0,1
+Alsatian,0,0,0.0,1
+Ptolemaic,0,0,0.0,1
+Oká,0,0,0.0,1
+Kúrbski,0,0,0.0,1
+Vicomte de Mortemart,0,0,0.0,1
+Échkino,0,0,0.0,1
+Grékov,0,0,0.0,2
+satin,0,0,0.0,1
+Amelie,0,0,0.0,1
+Lëlya,0,0,0.0,1
+Tutólmin,0,0,0.0,1
+Petróv,0,0,0.0,2
+Koutouzov,0,0,0.0,1
+Platoche,0,0,0.0,1
+Zúbova,0,0,0.0,1
+Antónov,0,0,0.0,1
+Matthew,0,0,0.0,1
+Little Túshin,0,0,0.0,1
+Attila,0,0,0.0,1
+Bugler,0,0,0.0,1
+Natásha Rostóva,0,0,0.0,1
+Bruin,0,0,0.0,1
+Schlosser,0,0,0.0,1
+malheureux Mack,0,0,0.0,1
+Kírsten,0,0,0.0,1
+Villeneuve,0,0,0.0,1
+Adieu,0,0,0.0,1
+Tarás,0,0,0.0,1
+Chichagóv,0,0,0.0,1
+Alphonse Kárlovich,0,0,0.0,1
+Bykov,0,0,0.0,1
+Kobelnitz,0,0,0.0,2
+zakúska,0,0,0.0,1
+Anna Timoféevna,0,0,0.0,1
+Plátov,0,0,0.0,1
+Captain,0,0,0.0,4
+Kiselëv,0,0,0.0,1
+Att,0,0,0.0,1
+Sedyablyaka,0,0,0.0,1
+Zaletáev,0,0,0.0,2
+ho ho,0,0,0.0,1
+Michael Mítrich,0,0,0.0,2
+Bolkónskis,0,0,0.0,1
+Trains,0,0,0.0,1
+Evidently Natásha,0,0,0.0,1
+JULIE,0,0,0.0,1
+Beyond Smolénsk,0,0,0.0,1
+Junot,0,0,0.0,2
+Denís Davýdov,0,0,0.0,1
+“Prince Vasíli,0,0,0.0,1
+Vasílisa,0,0,0.0,1
+Lanfrey,0,0,0.0,1
+Tíkhon Shcherbáty,0,0,0.0,1
+Louis-es,0,0,0.0,1
+Jacobin,0,0,0.0,1
+“Prince Auersperg,0,0,0.0,1
+Gibbon,0,0,0.0,1
+Evidently Pierre,0,0,0.0,1
+MARY,0,0,0.0,2
+Lisa,0,0,0.0,1
+Euer Hochgeboren,0,0,0.0,1
+Prince Nesvítski,0,0,0.0,1
+Salomoni,0,0,0.0,1
+I. ‘Christ,0,0,0.0,1
+Vincent,0,0,0.0,1
+Meanwhile Nesvítski,0,0,0.0,1
+Madame de Genlis,0,0,0.0,1
+Staff Officer,0,0,0.0,1
+Nicholas inquired,0,0,0.0,2
+Karabákh,0,0,0.0,1
+Cadet Mirónov,0,0,0.0,1
+Zíkin,0,0,0.0,1
+Empia,0,0,0.0,1
+parisienne de cœur,0,0,0.0,1
+Jack,0,0,0.0,1
+Melyukóva,0,0,0.0,1
+Sistine Madonna,0,0,0.0,1
+de Beausset half,0,0,0.0,1
+De Beausset,0,0,0.0,3
+de Beausset,0,0,0.0,9
+De Beausset’s,0,0,0.0,1
+Eau de Cologne,0,0,0.0,1
+Hussar,0,0,0.0,1
+Andrew Kaysárov,0,0,0.0,1
+gypsy choirs,0,0,0.0,1
+n’a pas de sexe,0,0,0.0,1
+tranquille,0,0,0.0,1
+Anna Semënovna,0,0,0.0,1
+Michael Kirílovich,0,0,0.0,1
+Julie—,0,0,0.0,1
+Fóka,0,0,0.0,1
+Sorbier,0,0,0.0,1
+Prince Poniatowski,0,0,0.0,1
+Gibrard,0,0,0.0,1
+Kondrátevna,0,0,0.0,1
+Peter the Great,0,0,0.0,1
+Réaumur,0,0,0.0,1
+Lady-Countess,0,0,0.0,1
+de Beausset’s,0,0,0.0,1
+Corvisart,0,0,0.0,1
+Michael Nikanórovich,0,0,0.0,1
+Ilágin,0,0,0.0,2
+Belliard,0,0,0.0,4
+Berthier,0,0,0.0,2
+M. de Beausset’s,0,0,0.0,1
+Prince Peter Ivánovich,0,0,0.0,1
+Fëdor,0,0,0.0,1
+Semënova,0,0,0.0,1
+“Prince Andrew’s,0,0,0.0,1
+Nóvgorod,0,0,0.0,1
+Selivánov,0,0,0.0,1
+de Castrès,0,0,0.0,1
+de Turenne,0,0,0.0,1
+Dorogobúzh,0,0,0.0,1
+Prince Kutúzov,0,0,0.0,2
+Weimar,0,0,0.0,1
+Matthew Iványch Plátov,0,0,0.0,1
+Alpátych,0,0,0.0,3
+Prince Bolkónski’s,0,0,0.0,1
+Rostóv to Ilyín,0,0,0.0,1
+Trap-ta-ta-tap,0,0,0.0,1
+Mary saw Dessalles,0,0,0.0,1
+Satisfied,0,0,0.0,1
+Wintzingerodes,0,0,0.0,1
+Prince Golítsyn,0,0,0.0,1
+Julner,0,0,0.0,1
+Dunyásha,0,0,0.0,1
+Prince Saltykóv,0,0,0.0,1
+chuck,0,0,0.0,1
+Saxon,0,0,0.0,1
+Kóvno,0,0,0.0,1
+Sewene Highness,0,0,0.0,1
+la ville,0,0,0.0,1
+Vilkavisski,0,0,0.0,2
+Lvóvich Púshkin,0,0,0.0,1
+Julie Drubetskáya,0,0,0.0,2
+Prince Galítsyn,0,0,0.0,1
+Peter Kirílovich,0,0,0.0,5
+Natalie Rostóva’s,0,0,0.0,1
+Dmítrievna,0,0,0.0,1
+Tproo,0,0,0.0,1
+Stëshka,0,0,0.0,1
+Achilles,0,0,0.0,1
+Mummy,0,0,0.0,5
+Schneider,0,0,0.0,1
+Mary Nikoláevna,0,0,0.0,3
+Dólokhov to Rostóv,0,0,0.0,1
+Peterkin,0,0,0.0,1
+Andrew!”—said,0,0,0.0,1
+Fatty,0,0,0.0,1
+Nikúlins,0,0,0.0,1
+birdie,0,0,0.0,1
+Nurse Sávishna,0,0,0.0,1
+Miss,0,0,0.0,7
+Empewah,0,0,0.0,1
+Demyán,0,0,0.0,1
+Will Papa,0,0,0.0,1
+Monsieur Denísov,0,0,0.0,1
+death?—death,0,0,0.0,1
+Emilie de Mansfeld,0,0,0.0,1
+Hosanna,0,0,0.0,1
+His Majesty,0,0,0.0,1
+Napoleon Knows,0,0,0.0,1
+Vasíli Ignátovich,0,0,0.0,1
+Vasíli Denísov’s,0,0,0.0,1
+M. Michaud’s,0,0,0.0,1
+Vasíli Denísov,0,0,0.0,1
+Kólya,0,0,0.0,1
+Repnín,0,0,0.0,2
+Anna Ignátyevna Malvíntseva,0,0,0.0,1
+Alexander’s Guards,0,0,0.0,1
+Malvíntseva Nicholas,0,0,0.0,1
+Tróitsa,0,0,0.0,2
+Foot Guards,0,0,0.0,1
+Ápsherons,0,0,0.0,1
+Tss,0,0,0.0,1
+Orders,0,0,0.0,1
+M. Ramballe,0,0,0.0,1
+de Rostopchíne,0,0,0.0,1
+Smolyanínov,0,0,0.0,1
+Saxony,0,0,0.0,1
+Quay,0,0,0.0,1
+Cyril Matvéich,0,0,0.0,1
+Petersburg Berg,0,0,0.0,1
+shaven chin,0,0,0.0,1
+Sulphur,0,0,0.0,1
+“Peter Kirílych,0,0,0.0,1
+Vasílchikov,0,0,0.0,1
+Vereshchágin,0,0,0.0,3
+Gabriel Ivánovich,0,0,0.0,1
+Russian Masonry,0,0,0.0,1
+Monsieur Magnítski,0,0,0.0,1
+Michael Mikháylovich Speránski,0,0,0.0,1
+Ma’am’selle,0,0,0.0,1
+Hoffman,0,0,0.0,1
+Prince Andrew Bolkónski,0,0,0.0,1
+thrice,0,0,0.0,1
+je suis,0,0,0.0,2
+Makéev,0,0,0.0,1
+Mikólka,0,0,0.0,1
+Amphilochus,0,0,0.0,1
+Ivánushka,0,0,0.0,2
+Freemasonry Pierre,0,0,0.0,1
+Schwarzenberg,0,0,0.0,1
+Borovítski,0,0,0.0,1
+Uncle Ignát,0,0,0.0,1
+Ilyá Andréevich Rostóv,0,0,0.0,1
+Tipsy,0,0,0.0,1
+Suffragan,0,0,0.0,1
+Torture,0,0,0.0,1
+George Dandin,0,0,0.0,1
+Leo Tolstoy,0,0,0.0,1
