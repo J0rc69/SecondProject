@@ -18,13 +18,13 @@ This repository contains the materials for **Applied NLP Project — Comparing W
 
 We analyze Four major linguistic dimensions:
 
-Bigrams & Trigrams (Frequency & Comparison)
+ -Bigrams & Trigrams (Frequency & Comparison)
 
-Phrase Diversity (n-gram TTR)
+ -Phrase Diversity (n-gram TTR)
 
-PMI (Pointwise Mutual Information)Character Network Analysis
+ -PMI (Pointwise Mutual Information)Character Network Analysis
 
-Character Network Analysis
+ -Character Network Analysis
 
 
 ---
