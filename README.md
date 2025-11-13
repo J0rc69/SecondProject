@@ -1,7 +1,7 @@
 # Applied NLP Project — Comparing War and Peace & Anna Karenina
 Group members: Joranas Cigas, Daved Tawdros, Jakhongir Erkinov, Chriswen Baiju
 
-This repository contains the materials for **Project X**.  
+This repository contains the materials for **Applied NLP Project — Comparing War and Peace & Anna Karenina **.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
 - Data: when you access correct data, place it in [`data/`](./data/) folder
