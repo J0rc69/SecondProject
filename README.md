@@ -110,7 +110,7 @@ Yes — the **patterns are stable** across both novels:
 - *Anna Karenina* consistently shows a slightly **higher TTR**, reflecting more expressive and emotional variation compared to the more epic and repetitive style of *War and Peace*.
 
 
-# Task-4 - Characters Network
+# Task-4 - Characters Relationship
 
 ## 🕊 War and Peace – Top 10 characters
 
